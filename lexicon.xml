@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon
+        version="1.0"
+        xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+              http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+        alphabet="ipa"
+        xml:lang="de-DE">
+	<lexeme>
+		<grapheme>pay</grapheme>
+		<alias>päy</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Pay</grapheme>
+		<alias>päy</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>money mate</grapheme>
+		<alias>money mähjt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Money Mate</grapheme>
+		<alias>money mähjt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Money mate</grapheme>
+		<alias>money mähjt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>mate</grapheme>
+		<alias>mähjt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Mate</grapheme>
+		<alias>mähjt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Giro</grapheme>
+		<alias>zhiiroo</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Girokonto</grapheme>
+		<alias>zhiirookonto</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Girokonten</grapheme>
+		<alias>zhiirookonten</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Girokarte</grapheme>
+		<alias>zhiirookarte</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Girokarten</grapheme>
+		<alias>zhiirookarten</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Fonds</grapheme>
+		<phoneme>fɔˈŋs</phoneme>
+	</lexeme>
+	<lexeme>
+		<grapheme>ETFs</grapheme>
+		<phoneme>ʔeːˈteːʔɛˈfˈs</phoneme>
+	</lexeme>
+	<lexeme>
+		<grapheme>ETFS</grapheme>
+		<phoneme>ʔeːˈteːʔɛˈfˈs</phoneme>
+	</lexeme>
+	<lexeme>
+		<grapheme>p.a.</grapheme>
+		<alias>pro Jahr</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>ccm</grapheme>
+		<alias>Kubikzentimeter</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>prepaid</grapheme>
+		<alias>pre'payd</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Prepaid</grapheme>
+		<alias>pre'payd</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Prepaid-Karte</grapheme>
+		<alias>pre'payd Karte</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>debit</grapheme>
+		<alias>de'bit</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Debit</grapheme>
+		<alias>de'bit</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>z.B.</grapheme>
+		<alias>zum Beispiel</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Branche</grapheme>
+		<alias>brangsche</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>CHF</grapheme>
+		<alias>Schweizer Franken</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>DZ-Bank</grapheme>
+		<alias>DZ-Bank</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>DZ Bank</grapheme>
+		<alias>DZ-Bank</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>JP Morgan</grapheme>
+		<alias>jaypi Morgan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Banking</grapheme>
+		<alias>Bänking</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>gefrühstückt</grapheme>
+		<alias>gefrühschtückt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Karte</grapheme>
+		<alias>Karrte</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>smartphone</grapheme>
+		<alias>smarttphone</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Depoteinstellungen</grapheme>
+		<alias>Depoo'einstellungen</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>SEPA</grapheme>
+		<alias>Sepa</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Single Euro Payments Area</grapheme>
+		<alias>Single Yuroow Paymehnts Ärea</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Renditeszenarien</grapheme>
+		<alias>Rendite'szenarien</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Renditeszenario</grapheme>
+		<alias>Rendite'szenario</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>DSGVO</grapheme>
+		<alias>D'S'G'V'O</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>TAN</grapheme>
+		<alias>tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Push TAN</grapheme>
+		<alias>Push tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Push-TAN</grapheme>
+		<alias>Push tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Photo TAN</grapheme>
+		<alias>Photo tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Photo-TAN</grapheme>
+		<alias>Photo tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Depotentgelt</grapheme>
+		<alias>Depoo'entgelt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>AGBs</grapheme>
+		<alias>A'G'Bees</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>IT</grapheme>
+		<alias>Informationstechnologie</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Exchange traded funds</grapheme>
+		<alias>Ex'change träydäd fonds</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>LLMs</grapheme>
+		<alias>L L äms</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>LLMS</grapheme>
+		<alias>L L äms</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>basic</grapheme>
+		<alias>bää'y'sick</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Basic</grapheme>
+		<alias>bää'y'sick</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Wall Street</grapheme>
+		<alias>wawhll ztriiet</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>DE</grapheme>
+		<alias>D E</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>photoTAN</grapheme>
+		<alias>photo tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>mobileTAN</grapheme>
+		<alias>mobeil tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>pushTAN</grapheme>
+		<alias>push tan</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>TAN-Verfahren</grapheme>
+		<alias>tan Verfahren</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>photoTAN-Verfahren</grapheme>
+		<alias>phototan Verfahren</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Face id</grapheme>
+		<alias>fäjs eidi</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>FaceId</grapheme>
+		<alias>fäjs eidi</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>FaceID</grapheme>
+		<alias>fäjs eidi</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Face ID</grapheme>
+		<alias>fäjs eidi</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>FAQs</grapheme>
+		<alias>F A qus</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>vorausgewählt</grapheme>
+		<alias>vor'ausgewählt</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>IDnow</grapheme>
+		<alias>eidi nau</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Girocard</grapheme>
+		<alias>zhirocard</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>girocard</grapheme>
+		<alias>zhirocard</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>Onlinebanking</grapheme>
+		<alias>Onlinebänking</alias>
+	</lexeme>
+	<lexeme>
+		<grapheme>apple wallet</grapheme>
+		<alias>apple wollet'</alias>
+	</lexeme>
+</lexicon>
